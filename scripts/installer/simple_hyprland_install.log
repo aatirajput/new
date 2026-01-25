@@ -1,0 +1,119 @@
+Sun Jan 18 08:54:00 AM PKT 2026: Installation started for theming section
+Sun Jan 18 08:54:00 AM PKT 2026: Attempting to run: Install nwg-look for GTK theme management
+Sun Jan 18 08:54:04 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:54:04 AM PKT 2026: Command failed: pacman -S --noconfirm nwg-look
+Sun Jan 18 08:54:26 AM PKT 2026: Installation started for theming section
+Sun Jan 18 08:54:26 AM PKT 2026: Attempting to run: Install nwg-look for GTK theme management
+Sun Jan 18 08:54:30 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:54:33 AM PKT 2026: Install nwg-look for GTK theme management completed successfully.
+Sun Jan 18 08:54:33 AM PKT 2026: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Sun Jan 18 08:54:35 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:54:36 AM PKT 2026: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Sun Jan 18 08:54:36 AM PKT 2026: Attempting to run: Install Catppuccin Mocha GTK theme
+Sun Jan 18 08:54:38 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:54:38 AM PKT 2026: Install Catppuccin Mocha GTK theme completed successfully.
+Sun Jan 18 08:54:38 AM PKT 2026: Attempting to run: Install Tela Circle Dracula icon theme
+Sun Jan 18 08:54:40 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:54:43 AM PKT 2026: Install Tela Circle Dracula icon theme completed successfully.
+Sun Jan 18 08:54:43 AM PKT 2026: Attempting to run: Install Catppuccin theme for Kvantum
+Sun Jan 18 08:54:45 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:55:05 AM PKT 2026: Install Catppuccin theme for Kvantum completed successfully.
+Sun Jan 18 08:55:05 AM PKT 2026: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Sun Jan 18 08:55:09 AM PKT 2026: Operation accepted by user.
+Sun Jan 18 08:55:09 AM PKT 2026: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Sun Jan 18 04:08:50 PM PKT 2026: Installation started for utilities section
+Sun Jan 18 04:08:50 PM PKT 2026: Attempting to run: Install Waybar - Status Bar
+Sun Jan 18 04:08:55 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:08:56 PM PKT 2026: Install Waybar - Status Bar completed successfully.
+Sun Jan 18 04:08:56 PM PKT 2026: Attempting to run: Copy Waybar config
+Sun Jan 18 04:08:58 PM PKT 2026: Operation cancelled by user.
+Sun Jan 18 04:08:58 PM PKT 2026: Copy Waybar config was skipped by user choice.
+Sun Jan 18 04:08:58 PM PKT 2026: Attempting to run: Install Tofi - Application Launcher
+Sun Jan 18 04:09:01 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:13 PM PKT 2026: Install Tofi - Application Launcher completed successfully.
+Sun Jan 18 04:09:13 PM PKT 2026: Attempting to run: Copy Tofi config(s)
+Sun Jan 18 04:09:15 PM PKT 2026: Operation cancelled by user.
+Sun Jan 18 04:09:15 PM PKT 2026: Copy Tofi config(s) was skipped by user choice.
+Sun Jan 18 04:09:15 PM PKT 2026: Attempting to run: Install Cliphist - Clipboard Manager
+Sun Jan 18 04:09:17 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:20 PM PKT 2026: Install Cliphist - Clipboard Manager completed successfully.
+Sun Jan 18 04:09:20 PM PKT 2026: Attempting to run: Install SWWW for wallpaper management
+Sun Jan 18 04:09:24 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:27 PM PKT 2026: Install SWWW for wallpaper management completed successfully.
+Sun Jan 18 04:09:27 PM PKT 2026: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Sun Jan 18 04:09:31 PM PKT 2026: Operation cancelled by user.
+Sun Jan 18 04:09:31 PM PKT 2026: Copy sample wallpapers to assets directory (Recommended) was skipped by user choice.
+Sun Jan 18 04:09:31 PM PKT 2026: Attempting to run: Install Hyprpicker - Color Picker
+Sun Jan 18 04:09:33 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:36 PM PKT 2026: Install Hyprpicker - Color Picker completed successfully.
+Sun Jan 18 04:09:36 PM PKT 2026: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Sun Jan 18 04:09:38 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:42 PM PKT 2026: Install Hyprlock - Screen Locker (Must) completed successfully.
+Sun Jan 18 04:09:42 PM PKT 2026: Attempting to run: Copy Hyprlock config
+Sun Jan 18 04:09:43 PM PKT 2026: Operation cancelled by user.
+Sun Jan 18 04:09:43 PM PKT 2026: Copy Hyprlock config was skipped by user choice.
+Sun Jan 18 04:09:43 PM PKT 2026: Attempting to run: Install Wlogout - Session Manager
+Sun Jan 18 04:09:45 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:49 PM PKT 2026: Install Wlogout - Session Manager completed successfully.
+Sun Jan 18 04:09:49 PM PKT 2026: Attempting to run: Copy Wlogout config and assets
+Sun Jan 18 04:09:51 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:09:51 PM PKT 2026: Copy Wlogout config and assets completed successfully.
+Sun Jan 18 04:09:51 PM PKT 2026: Attempting to run: Install Grimblast - Screenshot tool
+Sun Jan 18 04:09:57 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:10:06 PM PKT 2026: Install Grimblast - Screenshot tool completed successfully.
+Sun Jan 18 04:10:06 PM PKT 2026: Attempting to run: Install Hypridle for idle management (Must)
+Sun Jan 18 04:10:54 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:11:01 PM PKT 2026: Install Hypridle for idle management (Must) completed successfully.
+Sun Jan 18 04:11:01 PM PKT 2026: Attempting to run: Copy Hypridle config
+Sun Jan 18 04:11:04 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:11:04 PM PKT 2026: Copy Hypridle config completed successfully.
+Sun Jan 18 04:13:19 PM PKT 2026: Installation started for prerequisites section
+Sun Jan 18 04:13:19 PM PKT 2026: Attempting to run: Update package database and upgrade packages (Recommended)
+Sun Jan 18 04:13:24 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:13:37 PM PKT 2026: Update package database and upgrade packages (Recommended) completed successfully.
+Sun Jan 18 04:13:37 PM PKT 2026: Attempting to run: Configuring audio and brightness (Recommended)
+Sun Jan 18 04:13:46 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:13:50 PM PKT 2026: Configuring audio and brightness (Recommended) completed successfully.
+Sun Jan 18 04:13:50 PM PKT 2026: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Sun Jan 18 04:13:57 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:19:30 PM PKT 2026: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Sun Jan 18 04:19:30 PM PKT 2026: Attempting to run: Install and enable SDDM (Recommended)
+Sun Jan 18 04:22:42 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:22:44 PM PKT 2026: Install and enable SDDM (Recommended) completed successfully.
+Sun Jan 18 04:22:44 PM PKT 2026: Attempting to run: Install Brave Browser
+Sun Jan 18 04:22:46 PM PKT 2026: Operation cancelled by user.
+Sun Jan 18 04:22:46 PM PKT 2026: Install Brave Browser was skipped by user choice.
+Sun Jan 18 04:22:46 PM PKT 2026: Attempting to run: Install Kitty (Recommended)
+Sun Jan 18 04:22:52 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:22:53 PM PKT 2026: Install Kitty (Recommended) completed successfully.
+Sun Jan 18 04:22:53 PM PKT 2026: Attempting to run: Install nano
+Sun Jan 18 04:22:56 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:22:56 PM PKT 2026: Install nano completed successfully.
+Sun Jan 18 04:22:56 PM PKT 2026: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Sun Jan 18 04:22:59 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:22:59 PM PKT 2026: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Sun Jan 18 04:26:23 PM PKT 2026: Installation started for hypr section
+Sun Jan 18 04:26:23 PM PKT 2026: Attempting to run: Install Hyprland (Must)
+Sun Jan 18 04:26:27 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:28 PM PKT 2026: Install Hyprland (Must) completed successfully.
+Sun Jan 18 04:26:28 PM PKT 2026: Attempting to run: Copy hyprland config (Must)
+Sun Jan 18 04:26:32 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:32 PM PKT 2026: Copy hyprland config (Must) completed successfully.
+Sun Jan 18 04:26:32 PM PKT 2026: Attempting to run: Install XDG desktop portal for Hyprland
+Sun Jan 18 04:26:40 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:41 PM PKT 2026: Install XDG desktop portal for Hyprland completed successfully.
+Sun Jan 18 04:26:41 PM PKT 2026: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Sun Jan 18 04:26:45 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:46 PM PKT 2026: Install KDE Polkit agent for authentication dialogs completed successfully.
+Sun Jan 18 04:26:46 PM PKT 2026: Attempting to run: Install Dunst notification daemon
+Sun Jan 18 04:26:49 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:50 PM PKT 2026: Install Dunst notification daemon completed successfully.
+Sun Jan 18 04:26:50 PM PKT 2026: Attempting to run: Copy dunst config
+Sun Jan 18 04:26:51 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:51 PM PKT 2026: Copy dunst config completed successfully.
+Sun Jan 18 04:26:51 PM PKT 2026: Attempting to run: Install QT support on wayland
+Sun Jan 18 04:26:54 PM PKT 2026: Operation accepted by user.
+Sun Jan 18 04:26:55 PM PKT 2026: Install QT support on wayland completed successfully.
+Tue Jan 20 04:29:49 AM PKT 2026: Final setup script started
+Tue Jan 20 04:30:16 AM PKT 2026: Installation started
+Tue Jan 20 04:30:17 AM PKT 2026: Script not run as root. Exiting.
